@@ -1,3 +1,4 @@
+// Refactor Angular component structure
 'use strict';
 
 describe('myApp.view1 module', function() {

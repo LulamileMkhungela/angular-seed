@@ -1,4 +1,5 @@
 // Refactor Angular component structure
+// Refactor Angular component structure
 'use strict';
 
 // Declare app level module which depends on views, and core components

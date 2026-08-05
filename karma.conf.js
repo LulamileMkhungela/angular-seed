@@ -1,4 +1,5 @@
 // Refactor Angular component structure
+// Refactor Angular component structure
 //jshint strict: false
 module.exports = function(config) {
   config.set({

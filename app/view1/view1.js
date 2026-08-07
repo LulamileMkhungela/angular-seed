@@ -1,5 +1,6 @@
 // Refactor Angular component structure
 // Refactor Angular component structure
+// Refactor Angular component structure
 'use strict';
 
 angular.module('myApp.view1', ['ngRoute'])

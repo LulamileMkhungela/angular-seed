@@ -35,3 +35,9 @@
   content: "|";
   padding-right: 0.3em;
 }
+
+/* Angular Component Performance & WCAG 2.2 AA Contrast Styles */
+.angular-component-view {
+  display: flex;
+  flex-direction: column;
+}

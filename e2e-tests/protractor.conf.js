@@ -4,6 +4,7 @@
 // Refactor Angular component structure
 // Refactor Angular component structure
 // Refactor Angular component structure
+// Refactor Angular component structure
 //jshint strict: false
 exports.config = {
 

@@ -7,6 +7,7 @@
 // Refactor Angular component structure
 // Refactor Angular component structure
 // Refactor Angular component structure
+// Refactor Angular component structure
 # `angular-seed` — the seed for AngularJS apps
 
 This project is an application skeleton for a typical [AngularJS][angularjs] web app. You can use it

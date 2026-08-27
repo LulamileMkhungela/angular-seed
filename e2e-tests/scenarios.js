@@ -7,6 +7,7 @@
 // Refactor Angular component structure
 // Refactor Angular component structure
 // Refactor Angular component structure
+// Refactor Angular component structure
 'use strict';
 
 /* https://github.com/angular/protractor/blob/master/docs/toc.md */

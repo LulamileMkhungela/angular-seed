@@ -8,6 +8,7 @@
 // Refactor Angular component structure
 // Refactor Angular component structure
 // Refactor Angular component structure
+// Refactor Angular component structure
 'use strict';
 
 describe('myApp.view2 module', function() {
